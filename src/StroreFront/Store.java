@@ -2,8 +2,7 @@ package StroreFront;
 
 import java.util.ArrayList;
 
-record OrderItem(int quantity, ProductForSale product) {
-}
+record OrderItem(int quantity,ProductForSale product){}
 
 public class Store {
 
